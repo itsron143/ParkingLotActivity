@@ -24,7 +24,7 @@ python main.py input.txt
 
 # Code Improvements (Time Constraint)
 - use of global variable `parking_lot` in `input_parser.py` can be handled better. 
-- better tests can be written for the activity. 
+- more robust tests can be written for the activity. 
 - the methods inside `ParkingLot.py` can be fragmented and refactored to be clearer. 
 - handling exceptions for incorrect and illegal commands. 
 - structure the project in a more pythonic way.
