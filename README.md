@@ -6,6 +6,7 @@ The following instructions pertain to running the Parking Lot serivce.
 - The output is shown in `stdout`.
 - Installation step is optional (only to run the `pytest` command). The solution should work directly by running `main.py`. 
 - A basic test is included to check whether the output matches the output as specified in the Activity Google Doc and Gist. 
+- PEP8 Guidelines followed for code formatting and documenting.
 
 # Assumptions Made
 - There is only single entry and exit gate for the parking lot. 
