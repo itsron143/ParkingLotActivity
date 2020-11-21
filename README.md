@@ -27,3 +27,4 @@ python main.py input.txt
 - better tests can be written for the activity. 
 - the methods inside `ParkingLot.py` can be fragmented and refactored to be clearer. 
 - handling exceptions for incorrect and illegal commands. 
+- structure the project in a more pythonic way.
